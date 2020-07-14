@@ -1,0 +1,44 @@
+{
+    "Sites": {
+        "0": {
+            "name":"Facebook",
+            "url": "https://ca.finance.yahoo.com/quote/FB?p=FB&.tsrc=fin-srch"
+        },
+        "1": {
+            "name":"Google",
+            "url": "https://ca.finance.yahoo.com/quote/GOOG?p=GOOG&.tsrc=fin-srch"
+        },
+        "2": {
+            "name":"Apple",
+            "url": "https://ca.finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch"
+        },
+        "3": {
+            "name":"Amazon",
+            "url": "https://ca.finance.yahoo.com/quote/AMZN?p=AMZN&.tsrc=fin-srch"
+        },
+        "4": {
+            "name":"Twiter",
+            "url": "https://ca.finance.yahoo.com/quote/TWTR?p=TWTR&.tsrc=fin-srch"
+        },
+        "5": {
+            "name":"Netflix",
+            "url": "https://ca.finance.yahoo.com/quote/NFLX?p=NFLX&.tsrc=fin-srch"
+        },
+        "6": {
+            "name":"Microsoft",
+            "url": "https://ca.finance.yahoo.com/quote/MSFT?p=MSFT&.tsrc=fin-srch"
+        },
+        "7": {
+            "name":"Intel",
+            "url": "https://ca.finance.yahoo.com/quote/INTC?p=INTC&.tsrc=fin-srch"
+        },
+        "8": {
+            "name":"Amd",
+            "url": "https://ca.finance.yahoo.com/quote/AMD?p=AMD&.tsrc=fin-srch"
+        },
+        "9": {
+            "name":"Dell",
+            "url": "https://ca.finance.yahoo.com/quote/DELL?p=DELL&.tsrc=fin-srch"
+        }
+    }
+}
